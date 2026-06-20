@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+pytesseract
+requests
+python-dotenv
+pymongo[srv]
+certifi
